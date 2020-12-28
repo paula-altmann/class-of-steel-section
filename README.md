@@ -1,0 +1,1 @@
+Siemka, jestem pierwszym programem Pauli!
